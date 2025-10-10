@@ -1,8 +1,9 @@
 # KlebNetTrainingSep2025
-Slides from the "Klebsiella pneumoniae Genomic Epidemiology and Antimicrobial Resistance" delivered by KlebNET Genomic Surveillance Platform in September 2025
+Slides from the "Klebsiella pneumoniae Genomic Epidemiology and Antimicrobial Resistance" delivered by members of the [KlebNET Genomic Surveillance Platform](https://klebnet.org) in September 2025.
 
-A version of these slides were presented live by KlebNET team members as part of the [GenEpi-BioTrain - Genetic Epidemiology and Bioinformatics Training Programme](https://learning.ecdc.europa.eu/enrol/index.php?id=787) run by the European CDC (ECDC).
-To see/hear the video recordings of the KlebNET lectures you need to enrol (free!) in the GenEpi-BioTrain and navigate to the [Klebsiella session](https://learning.ecdc.europa.eu/course/view.php?id=1151).
+A version of these slides were presented live by KlebNET team members as part of the [GenEpi-BioTrain - Genetic Epidemiology and Bioinformatics Training Programme](https://learning.ecdc.europa.eu/enrol/index.php?id=787) run by the European CDC (ECDC). To see/hear the video recordings of the KlebNET lectures you need to enrol (free!) in the GenEpi-BioTrain and navigate to the [Klebsiella session](https://learning.ecdc.europa.eu/course/view.php?id=1151).
+
+These slides are made available under a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/) (which means you can distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator). <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" alt="CC-BY" width="50">
 
 ### Lectures and Credits
 
